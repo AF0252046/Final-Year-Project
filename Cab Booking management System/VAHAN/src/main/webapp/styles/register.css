@@ -1,0 +1,49 @@
+@charset "UTF-8";
+.flname{
+    padding-top: 50px;
+    text-align: center;
+}
+.flname input{
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+
+}
+.textboxes{
+    text-align: center;
+    
+}
+.textboxes input{
+    height: 40px;
+    width: 400px;
+    border-radius: 10px;
+}
+
+
+.checkbutton{
+    text-align: center;
+}
+.checkbutton button{
+    width: 400px;
+}
+.iconn{
+    text-align: center;
+    padding-top: 20px;
+}
+.signinall{
+    border: 2px solid black;
+    border-radius: 15px;
+    width: 500px;
+    height: 650px;
+    
+    
+}
+.boxx{
+   
+    padding-left: 37%;
+    padding-top: 30px;
+}
+.haveacc{
+    padding-top: 20px;
+   padding-left: 200px;
+}

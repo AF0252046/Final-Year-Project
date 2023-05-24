@@ -1,0 +1,43 @@
+@charset "UTF-8";
+.admin{
+	padding-left:10px;
+    display: flex;
+   
+}
+.side-container{
+    width: 300px;
+    height: 930px;
+    background-color: black;
+}
+.profile img{
+    width: 180px;
+    height: 100px;
+    padding-left: 30%;
+    padding-top: 10px;
+    border-radius: 2px solid white;
+}
+.side-menu ul li {
+    list-style-type: none;
+    padding-top: 20px;
+    
+}
+.side-menu button{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    width: 100%;
+    
+    
+}
+.dashboardd img{
+    width: 550px;
+    height: 390px;
+    
+}
+.all-content{
+    border: 3px solid white;
+}
+#bookimg img{
+    width: 1100px;
+    height: 400px;
+}
