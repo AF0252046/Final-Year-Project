@@ -1,0 +1,88 @@
+@charset "UTF-8";
+
+.header{
+    background-color: black;
+}
+
+.side-content ul li{
+    list-style-type: none;
+}
+.side-content a{
+    text-decoration: none;
+    color: black;
+}
+.side-content :hover{
+    cursor: pointer;
+    color: grey;
+}
+
+.Home-container{
+    padding-left: 30px;
+   
+}
+
+.bookingcalc{
+    width: 30%;
+    height: 100%;
+}
+
+.Booking{
+    display: flex;
+    position:fix;
+}
+
+
+.otherside{
+    height: 100%;
+    width: 70%;
+    
+    
+}
+
+.booking-side select{
+    width: 400px;
+    height: 50px;
+    font-size: 20px;
+}
+.booking-side button{
+    width: 200px;
+    height: 50px;
+  
+}
+.btnn{
+    padding-top: 10px;
+    padding-left: 80px;
+}
+.booking-side{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.allcalc{
+    padding-top: 20px;
+    display: flex;
+    
+   
+}
+.allcalc label{
+    padding-top: 20px;
+    font-size: 20px;
+}
+.allcalc input{
+    width: 195px;
+    font-size: 20px;
+}
+.lables{
+    border: 2px solid black;
+    width: 40%;
+}
+.allinputs{
+    border: 2px solid black;
+    width: 47%;
+    
+}
+.allinputs input{
+    padding-top: 17px;
+} 
+.total{
+    display: flex;
+}
